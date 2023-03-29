@@ -1,4 +1,4 @@
-import random, string
+import random, string, sys
 
 def info():
     print("Usage: python toolName.py passwordCharactersCount")
